@@ -14,12 +14,12 @@ Aplicação voltada para barbearias permitindo que as pessoas façam o seu agend
 A aplicação é voltada para barbearias e permite que as pessoas escolham uma data e um horário no calendário e façam o seu agendamento.
 
 ### Features da aplicação
-- [ x ] Cadastro de usuário
-- [ x ] Conexão com calendário
-- [ x ] Configuração de disponibilidade
-- [ x ] Atualização do perfil
-- [ x ] Calendário de disponibilidade
-- [ x ] Agendamento
+- [x] Cadastro de usuário
+- [x] Conexão com calendário
+- [x] Configuração de disponibilidade
+- [x] Atualização do perfil
+- [x] Calendário de disponibilidade
+- [x] Agendamento
 
 ## 🧑‍💻 Tecnologias utilizadas
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
