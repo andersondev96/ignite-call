@@ -83,7 +83,7 @@ O deploy da aplicação foi feito utilizando o [Vecel](https://vercel.com/)
 Depois que o *merge* da sua *pull request* for feito, você poderá deletar a sua *branch*.
 
 ## 📝 Licença
-Esse projeto está sobre a licensa [MIT](MIT)
+Esse projeto está sobre a licensa [MIT](LICENSE)
 
 ## 👥 Autor
 
